@@ -9,13 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Belize Wildland Adventures`,
+    description: `A locally operated tour company on the Hummingbird Highway in the Cayo District of Belize and comitted to providing you the best experience during your visit to Belize. We provide guided tours from exploring caves in the Mayan Underworld, hiking one of the highest peaks in the Maya Mountains to kayaking jungle rivers in the Belizean interior.`,
+    author: `Jose Urbina`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -36,7 +37,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/wba-logoMain.png`, // This path is relative to the root of the site.
       },
     },
   ],

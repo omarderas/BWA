@@ -31,7 +31,6 @@ query ToursDeferredQuery($slug: String!) {
             imageAltText
             imageTitleText
             galleryImage {
-              gatsbyImageData(placeholder: BLURRED, quality: 60)
               url
             }
           }

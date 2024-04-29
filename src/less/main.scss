@@ -393,6 +393,7 @@
     
 }
 
+@media(max-width: 768px){
 body{
     overflow-y: scroll; /* has to be scroll, not auto */
 -webkit-overflow-scrolling: touch;
@@ -402,3 +403,4 @@ overflow-x: hidden;
 html {
     overflow-x: hidden;
   }
+}

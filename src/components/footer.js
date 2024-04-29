@@ -22,7 +22,7 @@ function Footer() {
                     <ul className="social">
                                 <li>
                                    
-                                    <a href="" target="_blank"><FaFacebookF /></a>
+                                    <a href="https://www.facebook.com/wildlandbelize/" target="_blank"><FaFacebookF /></a>
                                     <a href="" target="_blank"><FaInstagram /></a>
                                  
                                 </li>

@@ -13,7 +13,7 @@ import Offers from "./home/components/offers"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="Cave Tubing & kayaking, Crystal Cave, Five Blues Lake and Mayan Ruins In Belize" />
     <Hero />
     <Tours />
     <WhyUs />

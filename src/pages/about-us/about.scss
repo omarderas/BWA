@@ -1,0 +1,37 @@
+.tours.about{
+    background-image: url(../../images/pattern.jpeg);
+    .container{
+        .contact-cta{
+                padding: 20px;
+                text-align: center;
+                border: unset!important;
+                box-shadow: unset!important;
+                margin-top: 0;
+            p{
+                text-decoration: none;
+                font-style: normal;
+                color: #23342C;
+                font-size: 16px;
+                max-width: 100%;
+                padding-bottom: 20px;
+
+            }
+            a{
+                text-decoration: none;
+                color: rgb(255, 255, 255);
+                font-family: Timmana, sans-serif;
+                font-style: normal;
+                font-size: 20px;
+                position: relative;
+                z-index: 999;
+                background-color: rgb(255, 153, 51);
+                mask-position: right bottom;
+                mask-repeat: no-repeat;
+                mask-size: cover;
+                mask-image: url("../../images/btn-path-right.png");
+                padding: 7px 20px 0px;
+                display: unset;
+            }
+        }
+    }
+}

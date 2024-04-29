@@ -15,6 +15,15 @@ header{
         .row{
            // max-width: 1500px;
            // margin: 0 auto;
+
+           @media(max-width: 436px){
+            .col-sm-6.first{
+                width: 30%;
+            }
+            .col-sm-6.second{
+                width: 70%;
+            }
+           }
             .col-sm-6.first{
                 ul.social{
                     display: inline-flex;
@@ -60,6 +69,9 @@ header{
                             -webkit-mask-size: cover;
                             -webkit-mask-image: url("../images/button-path.png");
                             padding: 10px 20px 10px 20px;
+                            &:hover{
+                                background-color: #fff!important;
+                            }
                         }
                     }
                 }
@@ -69,7 +81,7 @@ header{
     .header-nav{
        // position: relative;
         //z-index: 9999;
-        max-width: 1500px;
+        max-width: 1800px;
         margin: 0 auto;
         nav.navbar.navbar-expand-lg.navbar-light.bg-light{
             background-color: unset!important;
@@ -79,14 +91,16 @@ header{
                 margin-left: auto !important;
                 margin-right: unset!important;
             }
-
+           @media(min-width: 992px){
             .gatsby-image-wrapper-constrained{
                 img{
-                    width: 400px;
+                    width: 350px;
+                    margin-top: -6px;
                 }
-          }
+            }
+        }
           .navbar-nav .nav-link{
-            color: #fff!important;
+            color: #fff;
             font-family: "Timmana", sans-serif;
             font-size: 20px;
           }
@@ -169,4 +183,30 @@ header{
     header .header-nav nav .gatsby-image-wrapper-constrained img {
         width: 285px;
     }
+}
+
+li.nav-item.dropdown:hover .dropdown-menu {
+    display: block!important;
+}
+.dropdown-menu {
+    
+    border-radius: 0!important;
+    background-color: #ff9933!important;
+    border: none!important;
+    li{
+        a{
+            color: #fff;
+        }
+        .dropdown-item:active {
+            background-color: #fff
+        }
+    }
+}
+
+a:hover{
+    color: #ff9933!important;
+   
+}
+a{
+    transition: .2s all ease-in-out;
 }

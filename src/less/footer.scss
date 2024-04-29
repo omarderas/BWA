@@ -100,6 +100,9 @@
                         color: rgb(255, 153, 51);
                         margin-bottom: 2px;
                         text-decoration: none;
+                        &:hover{
+                            color: #fff!important;
+                        }
                         
                     }
                 }
@@ -124,7 +127,7 @@
             text-align: center;
             color: #fff;
             // background-color: #021a2c;
-           // padding: 15px;
+            padding: 15px;
             margin-bottom: -2px;
             margin-top: 80px;
             padding: 16px 0;
@@ -138,7 +141,7 @@
                 text-decoration: unset;
                 color: rgb(255, 153, 51);
                 &:hover{
-                    color: #fff;
+                    color: #fff!important;
                 }
             }
     

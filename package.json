@@ -11,10 +11,13 @@
     "gatsby-plugin-sass": "^6.13.1",
     "gatsby-plugin-sharp": "^5.13.1",
     "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-source-graphcms": "2.8.0",
     "gatsby-transformer-sharp": "^5.13.1",
+    "got": "^14.2.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
+    "react-responsive-carousel": "^3.2.23",
     "sass": "^1.74.1"
   },
   "devDependencies": {

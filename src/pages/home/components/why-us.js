@@ -59,7 +59,7 @@ function WhyUs() {
 
                             Nestled along the scenic Hummingbird Highway in the Cayo District, our locally operated tour company promises a top-notch experience during your Belizean escapade. From delving into the mystical caves of the Mayan Underworld to scaling the majestic peaks of the Maya Mountains, and gliding along jungle rivers in the Belizean heartland, we curate journeys that blend thrills with deep respect for nature's wonders.
                             </p>
-                            <a href="">
+                            <a href="/about-us">
                                 Read More
                             </a>
                         </div>

@@ -38,7 +38,7 @@
         .header-overlay {
             position: absolute;
             text-align: center;
-            width: 100%;
+            width: 97%;
             top: 1%;
             opacity: 0.1;
             z-index: 1;
@@ -69,6 +69,9 @@
             -webkit-mask-size: cover;
             -webkit-mask-image: url("../../images/btn-path-right.png");
             padding: 10px 20px 10px 20px;
+            &:hover{
+                background-color: #fff!important;
+            }
             
         }
     }
@@ -165,6 +168,9 @@
                             -webkit-mask-image: url("../../images/btn-path-right.png");
                             padding: 14px 20px 17px 20px;
                             display: unset;
+                            &:hover{
+                                background-color: #fff!important;
+                            }
                             
                         }
                     }
@@ -222,6 +228,9 @@
                           background-color: #ff9933;
                           width: fit-content;
                           padding: 7px;
+                          &:hover{
+                            background-color: #fff!important;
+                        }
                             
                         }
                     }
@@ -322,6 +331,9 @@
                         -webkit-mask-image: url("../../images/btn-path-right.png");
                         padding: 7px 20px 0px 20px;
                         display: unset;
+                        &:hover{
+                            background-color: #fff!important;
+                        }
                     }
                 }
                 .col-sm-6{

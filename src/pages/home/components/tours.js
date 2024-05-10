@@ -15,8 +15,10 @@ function Tours() {
         <div className="tours-main">
             <div className="welcome">
                 <h2>Welcome to</h2>
-                <h1>Belize Wildland Adentures</h1>
-                <p>A locally operated tour company on the Hummingbird Highway in the Cayo District of Belize and comitted to providing you the best experience during your visit to Belize. We provide guided tours from exploring caves in the Mayan Underworld, hiking one of the highest peaks in the Maya Mountains to kayaking jungle rivers in the Belizean interior.</p>
+                <h1>Wildland Belize Adventures</h1>
+                <p>Wildland Belize Adventures is a Belizean owned tour operator, we are located along the breathtaking hummingbird highway within the cayo district.
+                  We pride ourselves in providing guest with life changing,safe and professional tours.
+                  We provide adventurous tours,such as exploring massive underground cave system, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.</p>
             </div>
             <div className="tours-grid">
                <div className="row">
@@ -53,7 +55,7 @@ function Tours() {
                             <StaticImage src={img3} />
                             <div className="tour-overlay-cont">
                                     <span>USD $95</span>
-                                    <h1>Cave Kayaking</h1>
+                                    <h1>River Kayaking</h1>
                                     <p>Glide through the untamed waterways of Belize, exploring lush jungles and hidden underground rivers. Feel the rush as you navigate through winding passages and discover mesmerizing cave formations.</p>
                                     <a href="/cave-and-river-kayaking-in-belize/">
                                         View Tour

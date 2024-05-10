@@ -29,7 +29,7 @@ function Hero() {
       <div className="hero-content">
         <div className="header-overlay"><h1>Wildland Belize</h1></div>
        <p>Revive Yourself</p>
-       <h1>Your Adventure Awaits With Us</h1>
+       <h1>A Portal to Nature's Wonders</h1>
        <a href="/all-tours/">
            Our Adventures
        </a>

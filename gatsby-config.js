@@ -10,7 +10,9 @@
 module.exports = {
   siteMetadata: {
     title: `Wildland Belize Adventures`,
-    description: `A locally operated tour company on the Hummingbird Highway in the Cayo District of Belize and comitted to providing you the best experience during your visit to Belize. We provide guided tours from exploring caves in the Mayan Underworld, hiking one of the highest peaks in the Maya Mountains to kayaking jungle rivers in the Belizean interior.`,
+    description: `Wildland Belize Adventures is a Belizean owned tour operator, we are located along the breathtaking hummingbird highway within the cayo district.
+    We pride ourselves in providing guest with life changing,safe and professional tours.
+    We provide adventurous tours,such as exploring massive underground cave system, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.`,
     author: `Jose Urbina`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },

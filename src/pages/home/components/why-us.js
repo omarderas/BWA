@@ -8,7 +8,7 @@ function WhyUs() {
   return (
     <div className='why'>
        <div className='why-cont'>
-            <h2>Belize Wildland Adventures</h2>
+            <h2>Wildland Belize Adventures</h2>
             <h1>Why Choose Us</h1>
             <div className='row'>
                 <div className='col-sm-3'>
@@ -53,7 +53,7 @@ function WhyUs() {
                  <div className='row'>
                         <div className='col-sm-6'>
                             <h2>Get to Know Us</h2>
-                            <h1>About Belize Wildland Adventures</h1>
+                            <h1>About Wildland Belize Adventures</h1>
                             <p>
                             Meet Belizean owners Arnold Guevara and Isreal Manzanero, with over 15 years of experience, ready to craft an unforgettable adventure tailored to your journey. Their commitment to conservation shines through as they dedicate personal time to safeguard Belize's precious flora and fauna, backed by their certification as Medical Search and Rescue guides. <br />
 

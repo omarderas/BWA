@@ -37,7 +37,7 @@ function Footer() {
                     <p>
                         Tel:
                    
-                     <a href="tel:5016029544"> +(501) 602-9544</a>
+                     <a href="tel:5016146357"> +(501) 614-6357</a>
                     </p>
                     <p>
                         Email:

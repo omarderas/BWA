@@ -12,12 +12,12 @@ const Header = ({ siteTitle }) => (
        <div className="col-sm-6 first">
            <ul className="social">
               <li>
-                 <a href="">
-                 <i class="fa fa-phone"></i><span>501-602-9544</span>
+                 <a href="tel:6146357">
+                 <i class="fa fa-phone"></i><span>501-614-6357</span>
                  </a>
               </li>
               <li>
-                 <a href="">
+                 <a href="mailto:info@wildalandbelizeadventures.com">
                  <i class="fa fa-envelope"></i><span>info@wildalandbelizeadventures.com</span>
                  </a>
               </li>
@@ -65,7 +65,7 @@ const Header = ({ siteTitle }) => (
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="/all-tours">All Tours</a></li>
-                <li><a class="dropdown-item" href="/cave-and-river-kayaking-in-belize/">7-Mile Kave Kayaking</a></li>
+                <li><a class="dropdown-item" href="/cave-and-river-kayaking-in-belize/">River Kayaking</a></li>
              
                 <li><a class="dropdown-item" href="/cave-tubing-tours-in-belize-with-wildland-belize-adventures/">Cave Tubing</a></li>
                 <li><a class="dropdown-item" href="/crystal-cave-in-belize-with-wildland-belize-adventures/">Crystal Cave</a></li>

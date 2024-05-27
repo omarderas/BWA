@@ -17,8 +17,8 @@ function Tours() {
                 <h2>Welcome to</h2>
                 <h1>Wildland Belize Adventures</h1>
                 <p>Wildland Belize Adventures is a Belizean owned tour operator, we are located along the breathtaking hummingbird highway within the cayo district.
-                  We pride ourselves in providing guest with life changing,safe and professional tours.
-                  We provide adventurous tours,such as exploring massive underground cave system, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.</p>
+                  We pride ourselves in providing guest with life changing, safe and professional tours.
+                  We provide adventurous tours, such as exploring massive underground cave systems, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.</p>
             </div>
             <div className="tours-grid">
                <div className="row">

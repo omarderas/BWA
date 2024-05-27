@@ -10,11 +10,10 @@
 module.exports = {
   siteMetadata: {
     title: `Wildland Belize Adventures`,
-    description: `Wildland Belize Adventures is a Belizean owned tour operator, we are located along the breathtaking hummingbird highway within the cayo district.
-    We pride ourselves in providing guest with life changing,safe and professional tours.
-    We provide adventurous tours,such as exploring massive underground cave system, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.`,
+    description: `Wildland Belize Adventures is a Belizean owned tour operator, we are located along the breathtaking hummingbird highway within the cayo district. We pride ourselves in providing guest with life changing, safe and professional tours. We provide adventurous tours, such as exploring massive underground cave systems, or hiking up to the second highest summit within the treacherous Maya mountains, or just kayak some of the country's serene and peaceful rivers.`,
     author: `Jose Urbina`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://wildlandbelizeadventures.com`,
+    keywords: `Belize cave tubing, St. Herman's cave tubing, Subterranean river tubing Belize, Ancient cave systems Belize, Cave exploration Belize, Tubing adventure Belize, Guided cave tours Belize,Five Blues Lake Belize, Scenic lake tours Belize, Bird watching Five Blues Lake, Kayaking Five Blues Lake, Nature trails Five Blues Lake, Belizean lake adventures, Eco-tourism Belize,Crystal Cave Belize, Actun Tunichil Muknal cave, Crystal formations Belize, Cave spelunking Belize, Guided cave tours Crystal Cave, Adventure tours Belize caves, Crystal Cave exploration,Belize Zoo tours, Wildlife tours Belize Zoo, Animal encounters Belize, Family-friendly Belize Zoo, Guided zoo tours Belize, Belize wildlife sanctuary, Eco-tourism Belize Zoo,River kayaking Belize, Jungle river kayaking, Guided kayaking tours Belize, Kayak adventures Belize, Hummingbird Highway kayaking, Belize river tours, Eco-kayaking Belize,Mayan ruins Belize, Archaeological tours Belize, Xunantunich Mayan ruins, Caracol Mayan site Belize, Ancient Mayan cities Belize, Historical tours Belize, Mayan civilization Belize`,
   },
   plugins: [
     `gatsby-plugin-image`,

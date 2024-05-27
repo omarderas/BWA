@@ -21,7 +21,17 @@ export default function HTML(props) {
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
         <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-   
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BH4G3Y70QJ"></script>
+        <script
+          type='text/javascript'
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', "G-BH4G3Y70QJ");`,
+          }}
+        />
     </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

@@ -17,8 +17,8 @@ const Header = ({ siteTitle }) => (
                  </a>
               </li>
               <li>
-                 <a href="mailto:info@wildalandbelizeadventures.com">
-                 <i class="fa fa-envelope"></i><span>info@wildalandbelizeadventures.com</span>
+                 <a href="mailto:info@wildlandbelizeadventures.com">
+                 <i class="fa fa-envelope"></i><span>info@wildlandbelizeadventures.com</span>
                  </a>
               </li>
            </ul>

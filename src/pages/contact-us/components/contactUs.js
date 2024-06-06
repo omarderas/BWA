@@ -30,8 +30,8 @@ function ContactUs({data}) {
                     </a>
                   </p>
                   <p>Email: 
-                    <a href="mailto:info@wildalandbelizeadventures.com">
-                    info@wildalandbelizeadventures.com
+                    <a href="mailto:info@wildlandbelizeadventures.com">
+                    info@wildlandbelizeadventures.com
                     </a>
                   </p>
                  </span>
